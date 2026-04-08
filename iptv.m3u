@@ -1,53 +1,111 @@
 #EXTM3U
-
-# ===== INDONESIA (PALING STABIL) =====
-#EXTINF:-1,TVRI Nasional
-https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-
-#EXTINF:-1,TVRI World
-https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRIWorld)/index.m3u8
-
-#EXTINF:-1,Kompas TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-kompastv-kompastv/index.m3u8
-
-#EXTINF:-1,Metro TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01307-metro-metro/index.m3u8
-
-
-# ===== SUPER STABLE CHANNEL =====
-#EXTINF:-1,DW News
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1,NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
-
-#EXTINF:-1,France 24
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-
-# ===== ALTERNATIVE (LEBIH STABIL CDN) =====
-#EXTINF:-1,Al Jazeera Backup
-https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1,Bloomberg
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,ABC News
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews/master.m3u8
-
-#EXTINF:-1,CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/master.m3u8
-
-
-# ===== MOVIE / ENTERTAINMENT (LEGAL FREE) =====
-#EXTINF:-1,Rakuten Action
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,FilmRise
-https://filmrise-plex.amagi.tv/hls/amagi_hls_data_filmrise-plexAAA-plex/index.m3u8
-
-#EXTINF:-1,Pluto TV Movies
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1,afn
+http://hubmedia.asia:7635/afn/afn.m3u8
+#EXTINF:-1,aljazeera
+http://hubmedia.asia:7635/aljazeera/aljazeera.m3u8
+#EXTINF:-1,animalplanet
+http://hubmedia.asia:7635/animalplanet/animalplanet.m3u8
+#EXTINF:-1,antv
+http://hubmedia.asia:7635/antv/antv.m3u8
+#EXTINF:-1,arirang
+http://hubmedia.asia:7635/arirang/arirang.m3u8
+#EXTINF:-1,bbcearth
+http://hubmedia.asia:7635/bbcearth/bbcearth.m3u8
+#EXTINF:-1,bbclefestyle
+http://hubmedia.asia:7635/bbclefestyle/bbclefestyle.m3u8
+#EXTINF:-1,bbcnews
+http://hubmedia.asia:7635/bbcnews/bbcnews.m3u8
+#EXTINF:-1,ccm
+http://hubmedia.asia:7635/ccm/ccm.m3u8
+#EXTINF:-1,celestialmovies
+http://hubmedia.asia:7635/celestialmovies/celestialmovies.m3u8
+#EXTINF:-1,cgtndoc
+http://hubmedia.asia:7635/cgtndoc/cgtndoc.m3u8
+#EXTINF:-1,cinemax
+http://hubmedia.asia:7635/cinemax/cinemax.m3u8
+#EXTINF:-1,citrabioskop
+http://hubmedia.asia:7635/citrabioskop/citrabioskop.m3u8
+#EXTINF:-1,citraentertainment
+http://hubmedia.asia:7635/citraentertainment/citraentertainment.m3u8
+#EXTINF:-1,cna
+http://hubmedia.asia:7635/cna/cna.m3u8
+#EXTINF:-1,discovery
+http://hubmedia.asia:7635/discovery/discovery.m3u8
+#EXTINF:-1,dreamworks
+http://hubmedia.asia:7635/dreamworks/dreamworks.m3u8
+#EXTINF:-1,dwtv
+http://hubmedia.asia:7635/dwtv/dwtv.m3u8
+#EXTINF:-1,globaltv
+http://hubmedia.asia:7635/globaltv/globaltv.m3u8
+#EXTINF:-1,hgtv
+http://hubmedia.asia:7635/hgtv/hgtv.m3u8
+#EXTINF:-1,hiphiphore
+http://hubmedia.asia:7635/hiphiphore/hiphiphore.m3u8
+#EXTINF:-1,hore
+http://hubmedia.asia:7635/hore/hore.m3u8
+#EXTINF:-1,indosiar
+http://hubmedia.asia:7635/indosiar/indosiar.m3u8
+#EXTINF:-1,inews
+http://hubmedia.asia:7635/inews/inews.m3u8
+#EXTINF:-1,kix
+http://hubmedia.asia:7635/kix/kix.m3u8
+#EXTINF:-1,kompastv
+http://hubmedia.asia:7635/kompastv/kompastv.m3u8
+#EXTINF:-1,madinahtv
+http://hubmedia.asia:7635/madinahtv/madinahtv.m3u8
+#EXTINF:-1,mdtv
+http://hubmedia.asia:7635/mdtv/mdtv.m3u8
+#EXTINF:-1,mekkahtv2
+http://hubmedia.asia:7635/mekkahtv2/mekkahtv2.m3u8
+#EXTINF:-1,mentaritv
+http://hubmedia.asia:7635/mentaritv/mentaritv.m3u8
+#EXTINF:-1,metrotv
+http://hubmedia.asia:7635/metrotv/metrotv.m3u8
+#EXTINF:-1,mnctv
+http://hubmedia.asia:7635/mnctv/mnctv.m3u8
+#EXTINF:-1,moji
+http://hubmedia.asia:7635/moji/moji.m3u8
+#EXTINF:-1,nhkworld
+http://hubmedia.asia:7635/nhkworld/nhkworld.m3u8
+#EXTINF:-1,nickelodeon
+http://hubmedia.asia:7635/nickelodeon/nickelodeon.m3u8
+#EXTINF:-1,nickjr
+http://hubmedia.asia:7635/nickjr/nickjr.m3u8
+#EXTINF:-1,phoenix
+http://hubmedia.asia:7635/phoenix/phoenix.m3u8
+#EXTINF:-1,rcti
+http://hubmedia.asia:7635/rcti/rcti.m3u8
+#EXTINF:-1,redbull
+http://hubmedia.asia:7635/redbull/redbull.m3u8
+#EXTINF:-1,rockaction
+http://hubmedia.asia:7635/rockaction/rockaction.m3u8
+#EXTINF:-1,rockentertainment
+http://hubmedia.asia:7635/rockentertainment/rockentertainment.m3u8
+#EXTINF:-1,rodjatv
+http://hubmedia.asia:7635/rodjatv/rodjatv.m3u8
+#EXTINF:-1,rtnews
+http://hubmedia.asia:7635/rtnews/rtnews.m3u8
+#EXTINF:-1,rtv
+http://hubmedia.asia:7635/rtv/rtv.m3u8
+#EXTINF:-1,sctv
+http://hubmedia.asia:7635/sctv/sctv.m3u8
+#EXTINF:-1,thrill
+http://hubmedia.asia:7635/thrill/thrill.m3u8
+#EXTINF:-1,tlc
+http://hubmedia.asia:7635/tlc/tlc.m3u8
+#EXTINF:-1,trans7
+http://hubmedia.asia:7635/trans7/trans7.m3u8
+#EXTINF:-1,transtv
+http://hubmedia.asia:7635/transtv/transtv.m3u8
+#EXTINF:-1,tvn
+http://hubmedia.asia:7635/tvn/tvn.m3u8
+#EXTINF:-1,tvone
+http://hubmedia.asia:7635/tvone/tvone.m3u8
+#EXTINF:-1,tvrinas
+http://hubmedia.asia:7635/tvrinas/tvrinas.m3u8
+#EXTINF:-1,volitv
+http://hubmedia.asia:7635/volitv/volitv.m3u8
+#EXTINF:-1,zeebioskop
+http://hubmedia.asia:7635/zeebioskop/zeebioskop.m3u8
+#EXTINF:-1,zoomoo
+http://hubmedia.asia:7635/zoomoo/zoomoo.m3u8
