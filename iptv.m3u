@@ -1,0 +1,83 @@
+#EXTM3U
+
+# ===== INDONESIA =====
+#EXTINF:-1 tvg-name="TVRI Nasional" group-title="Indonesia",TVRI Nasional
+https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 tvg-name="TVRI World" group-title="Indonesia",TVRI World
+https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRIWorld)/index.m3u8
+
+#EXTINF:-1 tvg-name="Kompas TV" group-title="Indonesia",Kompas TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-kompastv-kompastv/index.m3u8
+
+#EXTINF:-1 tvg-name="Metro TV" group-title="Indonesia",Metro TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01307-metro-metro/index.m3u8
+
+#EXTINF:-1 tvg-name="Bali TV" group-title="Indonesia",Bali TV
+https://balitv-streaming.akamaized.net/hls/live/2001449/balitv/index.m3u8
+
+
+# ===== NEWS =====
+#EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-name="France 24" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-name="DW News" group-title="News",DW News
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK World" group-title="News",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
+
+
+# ===== ENTERTAINMENT =====
+#EXTINF:-1 tvg-name="Rakuten Action" group-title="Entertainment",Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten Drama" group-title="Entertainment",Rakuten Drama
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto Movies" group-title="Entertainment",Pluto Movies
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise" group-title="Entertainment",FilmRise TV
+https://filmrise-plex.amagi.tv/hls/amagi_hls_data_filmrise-plexAAA-plex/index.m3u8
+
+
+# ===== SPORTS =====
+#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
+https://a-cdn.klowdtv.net/live3/fifa_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-name="Edge Sport" group-title="Sports",Edge Sport
+https://edgesport-rakuten.amagi.tv/playlist.m3u8
+
+
+# ===== KIDS =====
+#EXTINF:-1 tvg-name="Kidoodle TV" group-title="Kids",Kidoodle TV
+https://kidoodletv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Toon Goggles" group-title="Kids",Toon Goggles
+https://toongoggles-toongoggles-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+# ===== DOCUMENTARY =====
+#EXTINF:-1 tvg-name="NASA TV" group-title="Documentary",NASA TV
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg" group-title="Documentary",Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+# ===== GENERAL =====
+#EXTINF:-1 tvg-name="ABC News" group-title="General",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews/master.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" group-title="General",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/master.m3u8
